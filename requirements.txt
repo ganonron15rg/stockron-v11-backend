@@ -1,6 +1,7 @@
+--upgrade pip
 fastapi==0.115.0
 uvicorn==0.30.1
-pandas==2.2.1
+pandas==2.1.1
 pydantic==2.8.2
 yfinance==0.2.40
-numpy==1.26.4
+numpy==1.26.0
